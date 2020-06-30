@@ -1,14 +1,5 @@
- Redisson实现分布式锁
+# Redisson实现分布式锁
 
-有关Redisson实现分布式锁前面写了三篇博客作为该项目落地的铺垫。
-
-1、[Redisson实现分布式锁(1)---原理](https://www.cnblogs.com/qdhxhz/p/11046905.html)
-
-2、[Redisson实现分布式锁(2)—RedissonLock](https://www.cnblogs.com/qdhxhz/p/11055426.html)
-
-3、[Redisson实现分布式锁(3)—项目落地实现](https://www.cnblogs.com/qdhxhz/p/11059200.html)
-
-该项目可以直接运用于实际开发中，作为分布式锁使用。
 
 
 ## 一、项目概述
