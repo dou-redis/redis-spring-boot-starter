@@ -91,7 +91,7 @@ redis-distributed-lock-web-test # 针对上面实现类的测试类
 ```java
         <dependency>
             <groupId>com.dou</groupId>
-            <artifactId>redis-distributed-lock-core</artifactId>
+            <artifactId>redis-spring-boot-start</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 ```
