@@ -84,3 +84,16 @@ redis-distributed-lock-web-test # 针对上面实现类的测试类
 ```
 
 <br>
+
+#### 4、使用方式
+
+
+```java
+        <dependency>
+            <groupId>com.dou</groupId>
+            <artifactId>redis-distributed-lock-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+```
+
+
