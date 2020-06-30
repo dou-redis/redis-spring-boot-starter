@@ -85,7 +85,7 @@ redis-distributed-lock-web-test # 针对上面实现类的测试类
 
 <br>
 
-#### 4、使用方式
+#### 5、使用方式
 
 
 ```java
